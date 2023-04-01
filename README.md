@@ -1,3 +1,3 @@
 # Arduino-UNO-Bluetooth-HM-10
 
-Modelo de código para utilização do módulo Bluetooth.
+Modelo de código para utilização do módulo Bluetooth HM-10.
